@@ -1,4 +1,4 @@
 :start
 :title Discord Bot
-node index.js
+node .
 goto :start
