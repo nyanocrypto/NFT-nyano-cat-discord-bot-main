@@ -1,0 +1,26 @@
+{
+    "__comment__": "Configuration settings for Nyano Cats Discord Bot.",
+
+    "token": "ENTER BOT TOKEN HERE",
+    "updateInterval": 30000,
+    "prefix": "!",
+    "referral": "?r=Armour",
+    "debug": true,
+
+
+    "__comment2__": "URL/API Links",
+
+    "salesApiUrl": "https://art.nanswap.com/asset/history/collection/Nyano-Cats?page=0&type=sales",
+    "transfersApiUrl": "https://art.nanswap.com/asset/history/collection/Nyano-Cats?page=0&type=transfer",
+    "listingsApiUrl": "https://art.nanswap.com/asset/history/collection/Nyano-Cats?page=0&type=listing",
+    "offersApiUrl": "https://art.nanswap.com/asset/history/collection/Nyano-Cats?page=0&type=offer",
+    "serverurl": "https://discord.gg/nyano",
+    "redditurl": "https://www.reddit.com/r/nyano/",
+    "xurl": "https://x.com/NyanoCatsNFT",
+
+    
+    "__comment3__": "Embed Settings",
+
+    "embedThumbnail": "https://cdn.discordapp.com/attachments/1207461209100517446/1209597496477622343/991.png?ex=65e78074&is=65d50b74&hm=2c021c96251c4da8a8520dc2&",
+    "embedFooterImage": "https://cdn.discordapp.com/attachments/1207461209100517446/1209597496477622343/991.png?ex=65e78074&is=65d50b74&hm=2c021c96251c4da8a8520dc2&"
+}
